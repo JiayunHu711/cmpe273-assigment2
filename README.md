@@ -1,5 +1,18 @@
 # Assignment 2
 
+* Terminal screenshot
+![0](/image/terminal.png)
+
+* Create a test
+![1](/image/1_create_test.png)
+
+* Upload a scantron
+![2](/image/2_update_scantron.png)
+
+* Check all scantron submissions
+![3](/image/3_get_result.png)
+
+
 In the assignment 2, you will be building a scantron OCR application in Python Flask. The application handles:
 
 * Scantron submission
